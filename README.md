@@ -1,4 +1,4 @@
-**Hi I'm Moritz 👋.** I study [business informatics at KIT](https://www.wirtschaftsinformatik.kit.edu/bachelor.php) with a focus on machine learning and statistics. I am particularly interested in the mechanics and statistical properties of ML algorithms, which is why I love implementing and playing around with them. Working on data science projects and applying the knowledge of varius ML algorithms is my passion. 
+**Hi I'm Moritz 👋.** I study [business informatics at KIT](https://www.wirtschaftsinformatik.kit.edu/bachelor.php) with a focus on machine learning and statistics. I am particularly interested in the mechanics and statistical properties of ML algorithms. Working on data science projects and applying the knowledge of varius ML algorithms is my passion. 
 
 Currently, I am working on my data science portfolio and in November, I will start my bachelor's thesis on dimensionality reduction techniques.
 
