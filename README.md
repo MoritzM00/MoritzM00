@@ -1,6 +1,4 @@
-**Hi I'm Moritz 👋.** I study [business informatics at KIT](https://www.wirtschaftsinformatik.kit.edu/bachelor.php) with a focus on machine learning and statistics. I am particularly interested in the mechanics and statistical properties of ML algorithms. Working on data science projects and applying the knowledge of varius ML algorithms is my passion. 
-
-Currently, I am working on my data science portfolio and in November, I will start my bachelor's thesis on dimensionality reduction techniques.
+**Hi I'm Moritz 👋.** I study [business informatics at KIT](https://www.wirtschaftsinformatik.kit.edu/bachelor.php) with a focus on machine learning and statistics. I am particularly interested in the mechanics and statistical properties of ML algorithms. Working on data science projects and applying the knowledge of varius ML algorithms is my passion.
 
 <!--
 **MoritzM00/MoritzM00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
