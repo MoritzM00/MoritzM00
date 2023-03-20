@@ -8,7 +8,6 @@
 
 ### Other accounts
 - **LinkedIn** [profile](https://www.linkedin.com/in/moritz-mistol/)
-
 - **Kaggle** [profile](https://www.kaggle.com/moritzm00)
 
 <!--
