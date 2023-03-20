@@ -1,4 +1,15 @@
-**Hi I'm Moritz 👋.** I study [business informatics at KIT](https://www.wirtschaftsinformatik.kit.edu/bachelor.php) with a focus on machine learning and statistics. I am particularly interested in the mechanics and statistical properties of ML algorithms. Working on data science projects and applying the knowledge of varius ML algorithms is my passion.
+**Hi I'm Moritz 👋.** I study business informatics at KIT with a focus on machine learning and statistics.
+
+
+## Projects
+- [Light-weight Python Template](https://github.com/MoritzM00/python-template): For a demo, see [here](https://github.com/MoritzM00/python-template-demo)
+- [drcomp](https://github.com/MoritzM00/drcomp): Code for my bachelor thesis on dimensionality reduction techniques
+- [FactorAnalysis](https://github.com/MoritzM00/FactorAnalysis): Code for my seminar paper on Factor Analysis
+
+## Other accounts
+- **LinkedIn** [profile](https://www.linkedin.com/in/moritz-mistol/)
+
+- **Kaggle** [profile](https://www.kaggle.com/moritzm00)
 
 <!--
 **MoritzM00/MoritzM00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
