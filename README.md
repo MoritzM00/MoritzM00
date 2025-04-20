@@ -2,10 +2,10 @@
 
 
 ### Projects
+- [Probabilistic Forecasting](https://github.com/MoritzM00/proba-forecasting): Timeseries Forecasting Challenge at KIT with focus on probabilistic forecasts using regression models.
 - [UTKFace Age Prediction](https://github.com/MoritzM00/AgePrediction-UTKFace): Predicting the Age from facial images using Deep CNNs.
 - [Light-weight Python Template](https://github.com/MoritzM00/python-template): For a demo, see [here](https://github.com/MoritzM00/python-template-demo)
 - [drcomp](https://github.com/MoritzM00/drcomp): Code for my bachelor thesis on dimensionality reduction techniques
-- [FactorAnalysis](https://github.com/MoritzM00/FactorAnalysis): Code for my seminar paper on Factor Analysis
 
 ### Other accounts
 - **LinkedIn** [profile](https://www.linkedin.com/in/moritz-mistol/)
