@@ -2,6 +2,7 @@
 
 
 ### Projects
+- [Evaluating Multimodal LLMs for Infrequent Action Recognition (HAR + Fall Detection](https://github.com/MoritzM00/infrequent-action-recognition): Master Thesis on MLLM Evaluation
 - [Probabilistic Forecasting](https://github.com/MoritzM00/proba-forecasting): Timeseries Forecasting Challenge at KIT with focus on probabilistic forecasts using regression models.
 - [UTKFace Age Prediction](https://github.com/MoritzM00/AgePrediction-UTKFace): Predicting the Age from facial images using Deep CNNs.
 - [Light-weight Python Template](https://github.com/MoritzM00/python-template): For a demo, see [here](https://github.com/MoritzM00/python-template-demo)
