@@ -1,4 +1,5 @@
-**Hi I'm Moritz 👋.** I study business informatics at KIT with a focus on machine learning and statistics.
+**Hi I'm Moritz 👋.** I study business informatics at KIT with a focus on Machine Learning, Deep Learning and Statistics.
+I'm passionate about ML Engineering from complex data and ML pipelines to efficient model deployment and CI/CD.
 
 
 ### Projects
